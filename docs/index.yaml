@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ems-server:
+  - apiVersion: v2
+    appVersion: 7.0.0-SNAPSHOT
+    created: "2024-03-07T13:26:43.537966456+01:00"
+    description: EMS server Helm chart for Kubernetes
+    digest: f04bd8207de316475a87272515ebc7bc9ee6a1984835ea23d95596b748d2f8ce
+    name: ems-server
+    type: application
+    urls:
+    - https://janmarchel7bulls.github.io/ems-server-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-07T13:26:43.537448901+01:00"
